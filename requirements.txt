@@ -12,3 +12,4 @@ nvidia-cuda-runtime-cu12==12.2.140
 gensim
 TurkishStemmer
 tqdm
+torch
