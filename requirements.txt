@@ -6,10 +6,11 @@ matplotlib
 seaborn
 wordcloud
 ipykernel
-tensorflow==2.15.0 
-nvidia-cudnn-cu12==8.9.2.26 
-nvidia-cuda-runtime-cu12==12.2.140
+#tensorflow==2.15.0 
+#nvidia-cudnn-cu12==8.9.2.26 
+#nvidia-cuda-runtime-cu12==12.2.140
 gensim
 TurkishStemmer
 tqdm
 torch
+stanza
